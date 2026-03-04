@@ -1,0 +1,20 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "min_format": 15,
+    "max_format": 75,
+    "description": [
+      {
+        "text": "Grace's Programmer Art, for mods! :]",
+        "color": "red"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "1.0",
+        "color": "dark_red"
+      }
+    ]
+  }
+}
