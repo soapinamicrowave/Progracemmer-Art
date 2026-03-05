@@ -22,11 +22,11 @@
   "item.pigsteel.pigsteel_chunk_block": "Block of Pigsteel Chunks",
   "item.pigsteel.pigsteel_lantern": "Pigsteel Lantern",
   "item.pigsteel.pigsteel_soul_lantern": "Pigsteel Soul Lantern",
-  "item.pigsteel.porkslag": "Porkslag",
+  "item.pigsteel.porkslag": "Pigsteel Ore",
   "item.pigsteel.refined_pigsteel": "Pigsteel Block",
   "item.pigsteel.waxed_corrupted_refined_pigsteel": "Waxed Corrupted Pigsteel Block",
   "item.pigsteel.waxed_infected_refined_pigsteel": "Waxed Infected Pigsteel Block",
   "item.pigsteel.waxed_refined_pigsteel": "Waxed Pigsteel Block",
   "item.pigsteel.waxed_zombified_refined_pigsteel": "Waxed Zombified Pigsteel Block",
-  "item.pigsteel.zombified_refined_pigsteel": "Zombified Pigsteel Block",
+  "item.pigsteel.zombified_refined_pigsteel": "Zombified Pigsteel Block"
 }
