@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 34,
     "min_format": 15,
-    "max_format": 90,
+    "max_format": 84,
     "description": [
       {
         "text": "Grace's Programmer Art, for mods! :]",
@@ -12,7 +12,7 @@
         "text": "\n"
       },
       {
-        "text": "2.0",
+        "text": "4.0",
         "color": "dark_red"
       }
     ]
